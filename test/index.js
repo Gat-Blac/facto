@@ -1,6 +1,6 @@
 var should = require('chai').should();
 var Facto = require('../index');
-var facto = new Facto('76290502-7','test');
+var facto = new Facto('username','password');
 
 describe('#Facto',function(){
   it('api::send document', function(done) {

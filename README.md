@@ -13,6 +13,8 @@ A library providing methods to use all facto apis
 ### SendDocument
 Use to send a document to SII using the facto apis
 ```javascript
+var Facto = require('facto');
+var facto = new Facto('username','password');
 var header = {
   'tipo_dte':33,
   'fecha_emision':'2017-06-22',

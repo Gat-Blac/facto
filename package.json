@@ -1,5 +1,5 @@
 {
-  "name": "facto",
+  "name": "facto-api",
   "version": "1.0.0",
   "description": "facto api library",
   "main": "index.js",
