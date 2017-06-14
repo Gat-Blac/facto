@@ -1,7 +1,7 @@
 #facto
 =========
 
-[![npm package](https://nodei.co/npm/facto.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/facto/)
+[![npm package](https://nodei.co/npm/facto-api.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/facto-api/)
 
 A library providing methods to use all facto apis
 
