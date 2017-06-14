@@ -1,0 +1,29 @@
+{
+  "name": "facto",
+  "version": "1.0.0",
+  "description": "facto api library",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Gat-Blac/facto.git"
+  },
+  "keywords": [
+    "facto;gat-blac"
+  ],
+  "author": "Gat-Blac",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Gat-Blac/facto/issues"
+  },
+  "homepage": "https://github.com/Gat-Blac/facto#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  },
+  "dependencies": {
+    "soap": "^0.19.1"
+  }
+}
